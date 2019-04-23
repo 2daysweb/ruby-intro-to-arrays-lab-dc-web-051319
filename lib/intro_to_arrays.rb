@@ -28,5 +28,6 @@ def last_element_with_array_methods
   return array.pop
 end
 
-def length_of_array
-  return 
+def length_of_array(array)
+  return array.length
+end
